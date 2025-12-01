@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --primary-color: #a95cc0;
+    --text-color: #727171
+    --secondary-color: #9f920b;
+    --font-family: 'Arial', sans-serif;
+}
+html {
+    font-size: 10px;
+    }
+    body {
+        font-family:sans-serif;
+         background-color: #a95cc0;
+        }
+         img{
+             width: 30%;
+             height: auto;
+         }
